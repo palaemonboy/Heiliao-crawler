@@ -19,8 +19,9 @@
 
 ## 使用方法 📚
 
-1. **下载Win版本**：[Release](https://github.com/palaemonboy/Heiliao-crawler/releases/)
-2. **运行爬虫**：请耐心等待因为还有视频，下载速度会比较慢。
+1. **下载Win版本**:[Release](https://github.com/palaemonboy/Heiliao-crawler/releases/)
+2. **获取URL**: [导航页](https://155.fun/) 中任意域名
+3. **运行爬虫**：请耐心等待因为还有视频，下载速度会比较慢
 3. **查看结果**：爬虫运行完毕后，数据将会保存在本地目录中，或者你可以选择其他目录。
 
 ![demo1](demo1.png)
